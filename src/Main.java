@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int opcao = 0;
 
-        final int LIMITE_EMPRESTIMOS = 3;
+        final int LIMITE_EMPRESTIMOS = 10;
         final int PRAZO_DIAS = 14;
         final double VALOR_MULTA_POR_DIA = 2.50;
         final int OPCAO_SAIR = 3;

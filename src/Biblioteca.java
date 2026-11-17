@@ -32,7 +32,7 @@ public class Biblioteca {
                 calcularDevolucaoMulta(scanner, prazoDias, multaDiaria);
                 break;
             case 3:
-                System.out.println("\nSaindo do sistema. Até mais!");
+                System.out.println("\nSaindo do sistema....");
                 break;
             default:
                 System.out.println("\n[Aviso] Opção inválida. Escolha entre 1 e 3.");
